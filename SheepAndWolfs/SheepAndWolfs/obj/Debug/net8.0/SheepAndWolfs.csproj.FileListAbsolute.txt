@@ -1,0 +1,15 @@
+C:\Users\carre\OneDrive\Escritorio\GitHub DAM\HTML_PAG_WEB\1DAM-O-2024-25\Programacion\SheepAndWolfs\SheepAndWolfs\bin\Debug\net8.0\SheepAndWolfs.exe
+C:\Users\carre\OneDrive\Escritorio\GitHub DAM\HTML_PAG_WEB\1DAM-O-2024-25\Programacion\SheepAndWolfs\SheepAndWolfs\bin\Debug\net8.0\SheepAndWolfs.deps.json
+C:\Users\carre\OneDrive\Escritorio\GitHub DAM\HTML_PAG_WEB\1DAM-O-2024-25\Programacion\SheepAndWolfs\SheepAndWolfs\bin\Debug\net8.0\SheepAndWolfs.runtimeconfig.json
+C:\Users\carre\OneDrive\Escritorio\GitHub DAM\HTML_PAG_WEB\1DAM-O-2024-25\Programacion\SheepAndWolfs\SheepAndWolfs\bin\Debug\net8.0\SheepAndWolfs.dll
+C:\Users\carre\OneDrive\Escritorio\GitHub DAM\HTML_PAG_WEB\1DAM-O-2024-25\Programacion\SheepAndWolfs\SheepAndWolfs\bin\Debug\net8.0\SheepAndWolfs.pdb
+C:\Users\carre\OneDrive\Escritorio\GitHub DAM\HTML_PAG_WEB\1DAM-O-2024-25\Programacion\SheepAndWolfs\SheepAndWolfs\obj\Debug\net8.0\SheepAndWolfs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carre\OneDrive\Escritorio\GitHub DAM\HTML_PAG_WEB\1DAM-O-2024-25\Programacion\SheepAndWolfs\SheepAndWolfs\obj\Debug\net8.0\SheepAndWolfs.AssemblyInfoInputs.cache
+C:\Users\carre\OneDrive\Escritorio\GitHub DAM\HTML_PAG_WEB\1DAM-O-2024-25\Programacion\SheepAndWolfs\SheepAndWolfs\obj\Debug\net8.0\SheepAndWolfs.AssemblyInfo.cs
+C:\Users\carre\OneDrive\Escritorio\GitHub DAM\HTML_PAG_WEB\1DAM-O-2024-25\Programacion\SheepAndWolfs\SheepAndWolfs\obj\Debug\net8.0\SheepAndWolfs.csproj.CoreCompileInputs.cache
+C:\Users\carre\OneDrive\Escritorio\GitHub DAM\HTML_PAG_WEB\1DAM-O-2024-25\Programacion\SheepAndWolfs\SheepAndWolfs\obj\Debug\net8.0\SheepAndWolfs.sourcelink.json
+C:\Users\carre\OneDrive\Escritorio\GitHub DAM\HTML_PAG_WEB\1DAM-O-2024-25\Programacion\SheepAndWolfs\SheepAndWolfs\obj\Debug\net8.0\SheepAndWolfs.dll
+C:\Users\carre\OneDrive\Escritorio\GitHub DAM\HTML_PAG_WEB\1DAM-O-2024-25\Programacion\SheepAndWolfs\SheepAndWolfs\obj\Debug\net8.0\refint\SheepAndWolfs.dll
+C:\Users\carre\OneDrive\Escritorio\GitHub DAM\HTML_PAG_WEB\1DAM-O-2024-25\Programacion\SheepAndWolfs\SheepAndWolfs\obj\Debug\net8.0\SheepAndWolfs.pdb
+C:\Users\carre\OneDrive\Escritorio\GitHub DAM\HTML_PAG_WEB\1DAM-O-2024-25\Programacion\SheepAndWolfs\SheepAndWolfs\obj\Debug\net8.0\SheepAndWolfs.genruntimeconfig.cache
+C:\Users\carre\OneDrive\Escritorio\GitHub DAM\HTML_PAG_WEB\1DAM-O-2024-25\Programacion\SheepAndWolfs\SheepAndWolfs\obj\Debug\net8.0\ref\SheepAndWolfs.dll
